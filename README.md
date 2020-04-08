@@ -8,10 +8,10 @@ For this project, you will be working to understand the results of an A/B test r
 
 Package
 ```
--Pandas
--Numpy
--Matplotlib.pyplot
--Random
+- Pandas
+- Numpy
+- Matplotlib.pyplot
+- Random
 ```
 
 ## Analyze Step
@@ -22,14 +22,14 @@ Package
 
 ### Clean data
 
--Check if the data contain NAN value
--Creat a new dataframe that contain the dataset for user to analyze.
--Find the duplicated row with same user id and drop that rows until one user id row left.
+- Check if the data contain NAN value
+- Creat a new dataframe that contain the dataset for user to analyze.
+- Find the duplicated row with same user id and drop that rows until one user id row left.
 
 ## Calculation
 
 - Calculate the converted rate for overall group, control group, treatment group
--Perform a A/B test and provide a visual and word solution for the A/B test
+- Perform a A/B test and provide a visual and word solution for the A/B test
 - Add new feature to see if the new feature is effect the result.
 
 
